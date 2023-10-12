@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "no-manns-personal-shift-tracker",
+
+    "public": "public"
+  }
+}

@@ -1,7 +1,10 @@
 {
   "hosting": {
-    "site": "no-manns-personal-shift-tracker",
-
-    "public": "public"
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
   }
 }
